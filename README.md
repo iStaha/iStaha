@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taha Latief</h1>
-<h3 align="center">Software Engineer with java background</h3>
+<h3 align="center">Software Engineer with Java background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=istaha&label=Profile%20views&color=0e75b6&style=flat" alt="istaha" /> </p>
 
