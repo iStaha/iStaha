@@ -1,7 +1,8 @@
 <h1 >Hi 👋, I'm Taha Latief</h1>
-<h3 align="center">Software Engineer/h3>
+<h3 >Software Engineer/h3>
 
 <🛠 Tech Stack
+    
 💻   Java | JS
 
 🌐   HTML | CSS | JavaScript | Angular | ReactJS
