@@ -5,7 +5,7 @@
     
 💻   Java | JS
 
-🌐   HTML | CSS | JavaScript | Angular | ReactJS
+🌐   HTML | CSS | JavaScript | Angular | ReactJS | JAVA | SPRING | ANGULAR | IONIC | JASMINE
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istaha&show_icons=true&locale=en" alt="istaha" /></p>
 
